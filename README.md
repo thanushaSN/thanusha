@@ -48,7 +48,7 @@ color:#555555;
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <head>
 <body class="container">
-<i class="glyphicon glyphicon-thumbs-up" "style="font-size:48px;color:red"></i>
+
 
 
 
