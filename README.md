@@ -59,13 +59,13 @@ color:#555555;
 
 <body style =" background: url(https://image.freepik.com/free-vector/orange-abstract-background-with-lines_1123-45.jpg);no-Drepeat">
 <h1> THANUSHA SN </h1>
-<img src="C:\Users\Akul\Desktop\photo\PNG>
+
 
 <table cellspacing="20">
 <div><font size="4"> <h3 style="background-color:gray">PERSANAL DETAILS</font></h3>
 <p>email:thanubhushan77@gmail.com<br>phno:9108206202<br>Address:Door no 4118,<br>
   8th cross,2nd main<br>'
-  Mandara Nilaya,Tumkure</p><i class="glyphicon glyphicon-envelope" "style="font-size:48px;color:red"></i>
+  Mandara Nilaya,Tumkure</p>
 
 
 <h4 style="background-color:gray"> INTRESTS </h4>
