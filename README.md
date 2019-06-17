@@ -35,7 +35,7 @@ color:#555555;
 </style>
 </head>
 <body>
-
+</div class="container-fluid bg-3b text-center>s
 <p> I am thanusha,studying 5th sem computer science<br>At siddaganga institute of technology
 <div class="container">
 <div class="btn-group-vertical">
