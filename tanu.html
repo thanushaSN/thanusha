@@ -61,7 +61,7 @@ color:#555555;
 <img src="C:\Users\Akul\Desktop\photo\PNG>
 
 <table cellspacing="20">
-<div><font size="4"> <h3 style="background-color:gray">PERSANAL DETAILS</font></h3>
+<div> <h3 style="background-color:gray">PERSANAL DETAILS</h3>
 <p>email:thanubhushan77@gmail.com<br>phno:9108206202<br>Address:Door no 4118,<br>
   8th cross,2nd main<br>'
   Mandara Nilaya,Tumkure</p>
